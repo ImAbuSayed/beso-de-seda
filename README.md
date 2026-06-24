@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Beso de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-seda/) |
+| **Get License** | [Secure Licensing Rights for Beso de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d886faa736c99791553a866e53e4bf2b62b9984ab30c561bdac29b122a09142a` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
